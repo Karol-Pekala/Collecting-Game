@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CollectingGame\CollectingGame\bin\Debug\CollectingGame.exe.config
+C:\Users\User\source\repos\CollectingGame\CollectingGame\bin\Debug\CollectingGame.exe
+C:\Users\User\source\repos\CollectingGame\CollectingGame\bin\Debug\CollectingGame.pdb
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.Form1.resources
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.Properties.Resources.resources
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.exe
+C:\Users\User\source\repos\CollectingGame\CollectingGame\obj\Debug\CollectingGame.pdb
